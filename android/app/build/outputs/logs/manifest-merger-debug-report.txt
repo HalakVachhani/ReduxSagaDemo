@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/0cbe93439cf2417a8fcf8cd7d6991490/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/753ddf121843e9e20db16074c96d5a75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dd1baa79bc26f43208ec0d245a119ed7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2a5db94ecde5d8471f824dc215a2cb64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d948c7617fdcf2303dcfa2bdaa4a4b39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/334d3f4f1fcbecc5b6845268e2d22bf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d186b87b7c02766d35bcca7e4e0c7dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/425c4768ed7cd0d5d859e3bd65e9424e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/f78a3d9e59a84399f557ed46d81596c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/3259752d0a16bd5c3b7677520bfb5bc5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f684d02913ef3b8e2cc5f1b5d411b488/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cf07a7a876c14e22e18f0f927fd87513/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/9e3b0e7723be3e7ceaaf9dcbe67ea717/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/25afefd0bf559d6d0dc528bb02b4c882/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e4a2db395594f4cc6c5b3d91877c52e2/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2b90766370a0f0796b88554cd337e7e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/42130b859fd0713132b84a5013aefc83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4752a91b5aa1ab69bdaf88fbb1f142ec/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4cc142cb1366fc639a3e4f6720fec656/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/49cd6d3e5f24cd219212079cc911e898/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/0cbe93439cf2417a8fcf8cd7d6991490/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/0cbe93439cf2417a8fcf8cd7d6991490/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/0cbe93439cf2417a8fcf8cd7d6991490/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/0cbe93439cf2417a8fcf8cd7d6991490/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/25afefd0bf559d6d0dc528bb02b4c882/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/25afefd0bf559d6d0dc528bb02b4c882/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e4a2db395594f4cc6c5b3d91877c52e2/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e4a2db395594f4cc6c5b3d91877c52e2/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.reactnativeboilerplate.MainActivity
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/0cbe93439cf2417a8fcf8cd7d6991490/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/0cbe93439cf2417a8fcf8cd7d6991490/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/753ddf121843e9e20db16074c96d5a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/753ddf121843e9e20db16074c96d5a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dd1baa79bc26f43208ec0d245a119ed7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dd1baa79bc26f43208ec0d245a119ed7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2a5db94ecde5d8471f824dc215a2cb64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2a5db94ecde5d8471f824dc215a2cb64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d948c7617fdcf2303dcfa2bdaa4a4b39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d948c7617fdcf2303dcfa2bdaa4a4b39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/334d3f4f1fcbecc5b6845268e2d22bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/334d3f4f1fcbecc5b6845268e2d22bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d186b87b7c02766d35bcca7e4e0c7dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d186b87b7c02766d35bcca7e4e0c7dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/425c4768ed7cd0d5d859e3bd65e9424e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/425c4768ed7cd0d5d859e3bd65e9424e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/f78a3d9e59a84399f557ed46d81596c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/f78a3d9e59a84399f557ed46d81596c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/3259752d0a16bd5c3b7677520bfb5bc5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/3259752d0a16bd5c3b7677520bfb5bc5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f684d02913ef3b8e2cc5f1b5d411b488/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f684d02913ef3b8e2cc5f1b5d411b488/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cf07a7a876c14e22e18f0f927fd87513/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cf07a7a876c14e22e18f0f927fd87513/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/9e3b0e7723be3e7ceaaf9dcbe67ea717/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/9e3b0e7723be3e7ceaaf9dcbe67ea717/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/25afefd0bf559d6d0dc528bb02b4c882/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/25afefd0bf559d6d0dc528bb02b4c882/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2b90766370a0f0796b88554cd337e7e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2b90766370a0f0796b88554cd337e7e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/42130b859fd0713132b84a5013aefc83/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/42130b859fd0713132b84a5013aefc83/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4752a91b5aa1ab69bdaf88fbb1f142ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4752a91b5aa1ab69bdaf88fbb1f142ec/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4cc142cb1366fc639a3e4f6720fec656/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4cc142cb1366fc639a3e4f6720fec656/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/49cd6d3e5f24cd219212079cc911e898/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/halak.vachhani/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/49cd6d3e5f24cd219212079cc911e898/AndroidManifest.xml:20:5-44
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/halak.vachhani/Desktop/Halak/GitProject/ReduxSagaDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
